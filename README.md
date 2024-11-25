@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Playwright test automation**
 
-- 👯 I’m looking to collaborate on **sSelenium Test Automation**
+- 👯 I’m looking to collaborate on **Selenium Test Automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
